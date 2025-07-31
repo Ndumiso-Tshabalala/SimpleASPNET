@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj": {}
+    "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleAspNetApp\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj": {
+    "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleAspNetApp\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj",
+        "projectUniqueName": "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleAspNetApp\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj",
         "projectName": "SimpleAspNetApp",
-        "projectPath": "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj",
+        "projectPath": "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleAspNetApp\\SimpleASPNET\\SimpleAspNetApp\\SimpleAspNetApp.csproj",
         "packagesPath": "C:\\Users\\The Titan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleASPNET\\SimpleAspNetApp\\obj\\",
+        "outputPath": "C:\\Users\\The Titan\\OneDrive\\Documents\\GitHub\\SimpleAspNetApp\\SimpleASPNET\\SimpleAspNetApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\The Titan\\AppData\\Roaming\\NuGet\\NuGet.Config"
