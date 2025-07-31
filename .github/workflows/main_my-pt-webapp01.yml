@@ -24,7 +24,7 @@ jobs:
           dotnet-version: '8.x'
           
       - name: Build with dotnet
-          run: dotnet build SimpleAspNetApp/SimpleAspNetApp.csproj --configuration Release
+        run: dotnet build SimpleAspNetApp/SimpleAspNetApp.csproj --configuration Release
 
       ##- name: Build with dotnet
        ## run: dotnet build --configuration Release
